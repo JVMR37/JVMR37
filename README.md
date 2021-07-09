@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<div style="display:inline-block; vertical-align: middle;">
-   <div>
-      <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-rey/">
-         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-   </div>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-martins-rey/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badglogo=linkedin&logoColor=white" />
+</a>
 
-   <div>
-      <a href="https://gitlab.com/JVMR">
-            <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-      </a>
-   </div>
-</div>
+ <a href="https://gitlab.com/JVMR">
+   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badlogo=gitlab&logoColor=white" />
+</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
