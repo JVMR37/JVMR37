@@ -2,7 +2,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-    <a href="https://github.com/demetrius-mp">
+    <a href="https://github.com/JVMR37">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JVMR37&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JVMR37&layout=compact&custom_title&langs_count=8&theme=radical"/>
     </a>
